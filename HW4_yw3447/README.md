@@ -1,7 +1,7 @@
 # Homework 3
 
 ## Assignment 1
-Please see pull request in gauravcusp/PUI2017_gb1877
+Please see pull request in [gauravcusp/PUI2017_gb1877](https://github.com/gauravcusp/PUI2017_gb1877/pull/2)
 
 ## Assignment 2
 
