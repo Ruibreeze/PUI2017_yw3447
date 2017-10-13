@@ -1,7 +1,7 @@
 # Homework 3
 
 ## Assignment 1
-Please see pull request in gauravcusp/PUI2017_gb1877
+Please see pull request in [gauravcusp/PUI2017_gb1877](https://github.com/gauravcusp/PUI2017_gb1877/pull/2)
 
 ## Assignment 2
 
@@ -23,6 +23,6 @@ Did the Z-test and the Chi-squre test.
 
 Group work with Zhiao Zhou(zz1749).
 
-For the later two tests, use 201502 and 201506 citibike data. Used PLUTO shapefile and ArcGIS to determine whether a point is in certain polygon.
+For the later two tests, use 201502 and 201506 citibike data. Used PLUTO shapefile and ArcGIS to determine whether a point is in certain polygon. File: MN.csv, BK.csv
 Tests of correlation using the scipy package with citibike data.
 
