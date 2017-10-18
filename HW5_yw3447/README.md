@@ -19,5 +19,5 @@ compare tests for goodness of fit on binomial and poisson distributions
 develop an investigation of linear relationships in data
 
 **Work collaboration**
-- Discussed WSL weight with Zhiao, Lingyi and Yuwen
+- Discussed WLS weight with Zhiao, Lingyi and Yuwen
 - Zhiao teached me how to plot confidence intervals
