@@ -14,8 +14,7 @@ correlation | 10, ten physicochemical properties of larval habitats(Temperature,
 Logistic Regression	| 1.credit score | continious  | 1.default or not default | categorical ||| 	How does application credit scoring determine the probability that a credit applicant will default on his/her credit obligation | there is no significant correlation between credit scoring and default rate of applicant | 1 | [Large Unbalanced Credit Scoring Using Lasso-Logistic Regression Ensemble](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0117844)|
 
 ## FBB t-test: overall is *mean* (since they use t-test)
-## logisic regression: the better way to phraase a null for regression is (IV is not a predictor of DV)
-
+## logisic regression: the better way to phraase a null for regression is (IV is not a predictor of DV) - also notice: they use *lasso* logistic regression
 
 ## Assignment 3
 Reproduce the analysis of the Hard to Employ program in NY.
