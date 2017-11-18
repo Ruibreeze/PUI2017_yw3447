@@ -3,7 +3,7 @@
 
 ## Review plot of pak348
 
-[![solarpalette](screenshots/1.PNG)](https://github.com/praveenashokkumar/PUI2017_pak348/blob/master/HW8_pak348/NYC%20Water%20Consumption.ipynb)
+![Alt text](screenshots/1.png)
 
 **Review:**
 
