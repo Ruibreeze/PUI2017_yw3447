@@ -3,7 +3,7 @@
 
 ## Review plot of pak348
 
-![Alt text](screenshots/1.png)
+![Alt text](screenshots/water.png)
 
 **Review:**
 
