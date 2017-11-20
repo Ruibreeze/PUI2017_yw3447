@@ -4,6 +4,10 @@ This is a peer review of YuKun's visualization submission provided by Ian Xiao (
 - ESTHETIC: beautiful is a subjective judgment: you should not judge the plot on the basis of whether you think it is "beautiful", but you should judge whether its esthetic is functional to what it is meant to communicate. Are the colors chosen appropriately? Are the graphical elements used appropriate to represent the quantities being visualized? Are the graphical choices allowing you to focus on the right elements or are they distracting you?
 - HONESTY: is the plot honestly reproducing the data or is it deforming it, perhaps to emphasize a point?
 
+# Original Visualization
+
+![Alt text](./yw3447_plot.png?raw=true)
+
 # Clarity
 YuKun's plot is easy to read overall. It is obvious that she's trying to show the different energy consumption behaviour and efficiency across regions in NYC. 
 
