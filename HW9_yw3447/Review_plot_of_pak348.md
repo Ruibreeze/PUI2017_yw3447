@@ -21,5 +21,7 @@ One alternative suggestion is, it's better to add one broken line to show the tr
 
 - Honesty
 
-The plot seems to show the real data honestly and there is no obvious outliers or errors. **IMPROVEMENTS:**
-However it would be better to add the source of data in order to verify the plot.
+The plot seems to show the real data honestly and there is no obvious outliers or errors. 
+
+**IMPROVEMENTS:**
+However it would be better to add the source of data and show the process of data cleaning in order to verify the plot.
