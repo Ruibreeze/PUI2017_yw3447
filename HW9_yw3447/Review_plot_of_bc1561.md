@@ -25,5 +25,7 @@ It would be better to use two more different colors(like green and red) for "Asi
 
 - Honesty
 
-The plot seems to show the real trend of AIDS cases among different races and there is no obvious outliers or errors. **IMPROVEMENTS:**
-However it would be better to add the source of data in order to verify the plot.
+The plot seems to show the real trend of AIDS cases among different races and there is no obvious outliers or errors.
+
+**IMPROVEMENTS:**
+However it would be better to add the source of data or show the process of data cleaning in order to verify the plot.
